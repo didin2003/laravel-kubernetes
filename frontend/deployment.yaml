@@ -17,7 +17,7 @@ spec:
         - name: regcred
       containers:
         - name: frontend
-          image: didin8080/frontend:10
+          image: didin8080/frontend:11
           ports:
             - containerPort: 5000
           envFrom:
