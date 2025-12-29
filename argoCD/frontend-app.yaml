@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/didin2003/laravel-react.git
     targetRevision: HEAD
-    path: kubernetes/frontend
+    path: frontend
   destination:
     server: https://kubernetes.default.svc
     namespace: apps
