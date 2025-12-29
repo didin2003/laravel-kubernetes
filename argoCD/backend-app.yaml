@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/didin2003/laravel-react.git
+    repoURL: https://github.com/didin2003/laravel-kubernetes.git
     targetRevision: HEAD
     path: backend
   destination:
