@@ -4,6 +4,6 @@ metadata:
   name: react-config
   namespace: apps
 data:
-  VITE_API_URL: https://<backend-domain-name>
-  VITE_FRONTEND_URL: https://<frontend-domain-name>
+  VITE_API_URL: https://api.didin.in
+  VITE_FRONTEND_URL: https://sonu.didin.in
 
