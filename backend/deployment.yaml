@@ -17,7 +17,7 @@ spec:
         - name: regcred
       containers:
         - name: backend
-          image: didin8080/backend:1
+          image: didin8080/backend:2
           ports:
             - containerPort: 80
           envFrom:
